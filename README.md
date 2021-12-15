@@ -1,7 +1,9 @@
 ## Welcome
 
-Hello, here you will find some of my projects that I've completed either at work or from my university projects.
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+👋 Hello there, I am a data science student based in Sydney, currently enrolled in the Master of Data Science program with UNSW and I am due to graduate by early 2023. I am also working full time at the moment as a Finance Manager at an advertising agency, and I am looking to transition into the field of data science.
+
+Here you will find some of projects that I have completed through my university courses and some of the data analysis that I worked or still working on in my current company. 
+
 
 ### Markdown
 
