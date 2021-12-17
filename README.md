@@ -1,8 +1,6 @@
 ## Welcome
 
-👋 Hello there, I am a data science student based in Sydney, currently enrolled in the Master of Data Science program with UNSW and I am due to graduate by early 2023. 
-
-I am also working full time at the moment as a Finance Manager at an advertising agency, and I am looking to transition into the field of data science.
+👋 Hello there, I am a data science student based in Sydney, currently enrolled in the master program with UNSW while also working full time.
 
 Here you will find some of projects that I have completed through my university courses and some of the data analysis that I worked or still working on in my current company. 
 
