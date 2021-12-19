@@ -2,7 +2,7 @@
 
 👋 Hello there, I am a data science student based in Sydney, currently enrolled in the master program with UNSW while also working full time.
 
-Here you will find some of projects that I have completed through my university courses and some of the data analysis that I worked or still working on in my current company. 
+Here you will find some of projects that I have completed through my university course and some of the data analysis work that I worked on in my current company. 
 
 
 ### Markdown
