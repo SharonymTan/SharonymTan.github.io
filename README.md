@@ -1,38 +1,16 @@
-## Welcome
+# Welcome
 
-👋 Hello there, I am a data science student based in Sydney, currently enrolled in the master program with UNSW while also working full time.
+👋 Hello there! I'm Sharon.
 
-Here you will find some of projects that I have completed through my university course and some of the data analysis work that I worked on in my current company. 
+Master of Data Science student from the University of New South Wales (UNSW), due to graduate early 2023.
 
+Welcome to my personal website. Here you will find some of the projects that I have completed through my university course, projects from work and some of my hobby projects.
 
-### Markdown
+I am fascinated by the world of data and I am passionate about using data to solve problems that are important in our world. 
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+## Projects
 
-```markdown
-Syntax highlighted code block
+### Predicting breast cancer patients' survival rate
 
-# Header 1
-## Header 2
-### Header 3
+(Github Repo)[https://github.com/sharonymtan/data-science-portfolio/tree/main/predicting-patient-survival-rate]
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/SharonymTan/SharonymTan.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
