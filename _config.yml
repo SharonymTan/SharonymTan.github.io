@@ -1,4 +1,4 @@
 theme: jekyll-theme-minimal
 title: "Sharon's portfolio" #left title of page
-logo: "/_asset/profile_picture.jpg" #profile pic
+logo: "profile_picture.jpg" #profile pic
 description: "A repository for some of my data science projects."
