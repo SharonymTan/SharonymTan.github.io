@@ -10,7 +10,7 @@ I am fascinated by the world of data and I am passionate about using data to sol
 
 ## Projects
 
-### Predicting breast cancer patients' survival rate
+### Predicting breast cancer patients' survival rate using Machine Learning
 
 ![This is an image](https://github.com/sharonymtan/sharonymtan.github.io/blob/main/_images/national-cancer-institute-gO-iULv-qbU-unsplash.jpg)
 
