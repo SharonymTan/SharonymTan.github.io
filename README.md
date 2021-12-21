@@ -12,7 +12,7 @@ I am fascinated by the world of data and I am passionate about using data to sol
 
 ### Predicting breast cancer patients' survival rate using Machine Learning
 
-![This is an image](https://github.com/sharonymtan/sharonymtan.github.io/blob/main/_images/marcelo-leal-k7ll1hpdhFA-unsplash.jpg)
+![This is an image](https://github.com/sharonymtan/sharonymtan.github.io/blob/main/_images/marcelo-leal-unsplash.jpg)
 
 [Github Repo](https://github.com/sharonymtan/data-science-portfolio/tree/main/predicting-patient-survival-rate)
 
