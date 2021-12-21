@@ -29,6 +29,6 @@ I am fascinated by the world of data and I am passionate about using data to sol
 - Scanned for missing values and outliers.
 - Applied log transformations during data exploration.
 
-![Image](/images/bikeshare-image.jfif)
+![Image](/images/bikesharing-image.jpg)
 
 
