@@ -20,7 +20,7 @@ I am fascinated by the world of data and I am passionate about using data to sol
 - Performance measured using confusion matrix.
 - A complete written report can also be found in the [Github repo](https://github.com/sharonymtan/data-science-portfolio/tree/main/predicting-patient-survival-rate)
 
-[Github repo](https://github.com/sharonymtan/data-science-portfolio/tree/main/predicting-patient-survival-rate)
+[[Github repo]](https://github.com/sharonymtan/data-science-portfolio/tree/main/predicting-patient-survival-rate)
 
 
 
