@@ -21,3 +21,14 @@ I am fascinated by the world of data and I am passionate about using data to sol
 ![Image](/images/marcelo-leal-unsplash.jpg)
 
 
+## [Data preprocessing with Bikeshare dataset with R:](https://github.com/sharonymtan/data-science-portfolio/tree/main/bikeshare-dataset-data-preprocessing)
+- University assessment completed at RMIT Univesity.
+- Preprocessed real life dataset on bikeshare activity provided by the Capital Bikeshare, available here at [Kaggle](https://www.kaggle.com/marklvl/bike-sharing-dataset?select=hour.csv). The purpose of this task is to prepare the dataset for analysis.
+- Applied Tidy principles.
+- Performed data cleaning and data manipulation.
+- Scanned for missing values and outliers.
+- Applied log transformations during data exploration.
+
+![Image](/images/bikeshare-image.jfif)
+
+
