@@ -1,4 +1,5 @@
 theme: jekyll-theme-minimal
 title: "Sharon's portfolio" #left title of page
 avatar: "profile_picture.jpg" #profile pic
+round-avatar: true
 description: "A repository for some of my data science projects."
