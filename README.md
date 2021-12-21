@@ -19,6 +19,7 @@ I am fascinated by the world of data and I am passionate about using data to sol
 - K-Nearest-Neighbour algorithm and Decision Tree Learning Model.
 - Performance measured using confusion matrix.
 - A complete written report can also be found in the [Github repo](https://github.com/sharonymtan/data-science-portfolio/tree/main/predicting-patient-survival-rate)
+
 [Github repo](https://github.com/sharonymtan/data-science-portfolio/tree/main/predicting-patient-survival-rate)
 
 
@@ -32,6 +33,7 @@ I am fascinated by the world of data and I am passionate about using data to sol
 - Performed data cleaning and data manipulation.
 - Scanned for missing values and outliers.
 - Applied log transformations during data exploration.
+
 [Github repo](https://github.com/sharonymtan/data-science-portfolio/tree/main/bikeshare-dataset-data-preprocessing)
 
 
