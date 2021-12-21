@@ -11,7 +11,7 @@ I am fascinated by the world of data and I am passionate about using data to sol
 # Project List:
 
 ## [Predict breast cancer patients' survival rate using Machine Learning:](https://github.com/sharonymtan/data-science-portfolio/tree/main/predicting-patient-survival-rate)
-- University assessment completed during my enrolment with RMIT Univesity.
+- University assessment completed at RMIT Univesity.
 - Created classification models to predict if a patient will survive more than or less than five years post surgery.
 - Used the Haberman’s Survival Data Set sourced from the [UCI](https://archive.ics.uci.edu/ml/datasets/haberman's+survival).
 - K-Nearest-Neighbour algorithm and Decision Tree Learning Model.
