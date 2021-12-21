@@ -8,11 +8,8 @@ Welcome to my personal website. Here you will find some of the projects that I h
 
 I am fascinated by the world of data and I am passionate about using data to solve problems that are important in our world. 
 
-## Projects
-
-### Predicting breast cancer patients' survival rate using Machine Learning
+## [Predicting breast cancer patients' survival rate using Machine Learning] (https://github.com/sharonymtan/data-science-portfolio/tree/main/predicting-patient-survival-rate)
 
 ![Image](/images/marcelo-leal-unsplash.jpg)
 
-[Github Repo](https://github.com/sharonymtan/data-science-portfolio/tree/main/predicting-patient-survival-rate)
 
