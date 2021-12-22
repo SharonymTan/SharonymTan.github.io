@@ -1,6 +1,6 @@
 ## Welcome
 
-👋 Hello there! I'm Sharon.
+👋 Hi, I'm Sharon!
 
 Master of Data Science student from the University of New South Wales (UNSW), due to graduate early 2023.
 
