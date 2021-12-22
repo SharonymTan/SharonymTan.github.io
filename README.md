@@ -10,7 +10,7 @@ I am fascinated by the world of data and I am passionate about using data to sol
 
 ## Project List:
 
-### [Predict breast cancer patients' survival rate using Machine Learning](https://github.com/sharonymtan/data-science-portfolio/tree/main/bikeshare-dataset-data-preprocessing)
+### [Predict cancer patients survival rate using Machine Learning](https://github.com/sharonymtan/data-science-portfolio/tree/main/bikeshare-dataset-data-preprocessing)
 
 ![Image](/images/marcelo-leal-unsplash.jpg)
 - University assessment completed at RMIT Univesity.
