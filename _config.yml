@@ -2,4 +2,4 @@ theme: jekyll-theme-minimal
 title: "Sharon's portfolio" #left title of page
 logo: "profile_picture.jpg" #profile pic
 round-logo: true
-description: "A repository for some of my data science projects."
+description: "A repository for my data science projects."
