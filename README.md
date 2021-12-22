@@ -34,7 +34,7 @@ I am fascinated by the world of data and I am passionate about using data to sol
 - Scanned for missing values and outliers.
 - Applied log transformations during data exploration.
 
-[Github repo](https://github.com/sharonymtan/data-science-portfolio/tree/main/bikeshare-dataset-data-preprocessing)
+[[Github repo]](https://github.com/sharonymtan/data-science-portfolio/tree/main/bikeshare-dataset-data-preprocessing)
 
 
 
