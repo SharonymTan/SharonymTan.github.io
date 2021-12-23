@@ -4,7 +4,7 @@
 @import "{{ site.theme }}";
 
 body {
-  background-color: #fef9ef;
+  background-color: rgb(254, 249, 239);
   padding:40px;
   font: 14px/1.5 "Noto Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
   color:#727272;
@@ -12,6 +12,6 @@ body {
 }
 
 h1, h2, h3, h4, h5, h6 {
-  color:#222;
+  color:#255;
   margin:0 0 20px;
 }
