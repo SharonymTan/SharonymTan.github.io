@@ -1,5 +1,4 @@
 ontheme: jekyll-theme-minimal
-baseurl: sharonymtan.github.io
 title: "Sharon's portfolio" #left title of page
 logo: "profile_picture.jpg" #profile pic
 description: "A repository for my data science projects."
