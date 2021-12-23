@@ -39,9 +39,9 @@ I am fascinated by the possibility of data and I want to use data to help the wo
 
 ### [Data Exploration with SQL and Visualisation using Tableau](https://github.com/sharonymtan/data-science-portfolio/tree/main/covid-dataset-sql-project)
 ![Image](/images/covid-tableau-dashboard.png)
-- Explored covid data sourced from ['Our World in Data'](https://ourworldindata.org/covid-deaths)
-- Looked at top level covid numbers by continent and global
-- Visualised data using Tableau Public
+- Explored covid data sourced from ['Our World in Data'](https://ourworldindata.org/covid-deaths), collected on 23 December 2021.
+- Looked at top level covid numbers by continent and global.
+- Visualised data using Tableau Public.
 
 [[Github Repo]](https://github.com/sharonymtan/data-science-portfolio/tree/main/covid-dataset-sql-project)
 
