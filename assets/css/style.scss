@@ -3,6 +3,7 @@
 
 @import "{{ site.theme }}";
 
+main-content {
 body {
   background-color: #faf9f9;
   padding:50px;
@@ -19,6 +20,8 @@ h1, h2, h3, h4, h5, h6 {
 a {
   color:#F87666;
   text-decoration:none;
+}
+  
 }
 
 
