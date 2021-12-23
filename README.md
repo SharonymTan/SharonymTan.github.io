@@ -37,5 +37,11 @@ I am fascinated by the world of data and I am passionate about using data to sol
 [[Github repo]](https://github.com/sharonymtan/data-science-portfolio/tree/main/bikeshare-dataset-data-preprocessing)
 
 
+### [Data Exploration with SQL and Visualisation using Tableau](https://github.com/sharonymtan/data-science-portfolio/tree/main/covid-dataset-sql-project)
+![Image](https://github.com/sharonymtan/sharonymtan.github.io/blob/main/images/covid-tableau-dashboard.png)
+- Explored covid data sourced from ['Our World in Data'](https://ourworldindata.org/covid-deaths)
+- Looked at top level covid numbers by continent and global
+- Visualised data using Tableau Public
+
 
 
