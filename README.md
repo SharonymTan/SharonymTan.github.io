@@ -43,5 +43,6 @@ I am fascinated by the world of data and I am passionate about using data to sol
 - Looked at top level covid numbers by continent and global
 - Visualised data using Tableau Public
 
+[[Github Repo]](https://github.com/sharonymtan/data-science-portfolio/tree/main/covid-dataset-sql-project)
 
 
