@@ -3,3 +3,4 @@ title: "Sharon's portfolio" #left title of page
 logo: "profile_picture.jpg" #profile pic
 round-logo: true
 description: "A repository for my data science projects."
+contact: "ymsharon998@gmail.com" # contact details
