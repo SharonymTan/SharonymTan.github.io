@@ -4,9 +4,9 @@
 
 Master of Data Science student from the University of New South Wales (UNSW), due to graduate early 2023.
 
-Welcome to my personal website. Here you will find some of the projects that I have completed through my university course, projects from work and some of my hobby projects.
+Welcome to my personal website. Here you will find some of the projects that I have completed through my university course, projects from work and some of my hobby/ learner projects.
 
-I am fascinated by the world of data and I am passionate about using data to solve problems that are important in our world. 
+I am fascinated by the possibility of data and want to use data to help the world a better place.
 
 ## Project List:
 
