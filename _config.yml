@@ -1,9 +1,10 @@
 theme: jekyll-theme-minimal
 title: "Sharon's portfolio" #left title of page
 logo: "profile_picture.jpg" #profile pic
-round-logo: true
 description: "A repository for my data science projects."
-email: "ymsharon998@gmail.com" # contact details
+social-network-links:
+email: "ymsharon998@gmail.com"
+linkedin: [LinkedIn](https://www.linkedin.com/in/sharon-tan-107854124/)
 
 # --- Colours / background image --- #
 
