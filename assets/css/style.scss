@@ -2,26 +2,17 @@
 ---
 
 @import "{{ site.theme }}";
-
-main-content {
-  body {
-    background-color: #faf9f9;
-    padding:50px;
-    font: 14px/1.5 "Noto Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
-    color:#011627;
-    font-weight:400;
+header {
+  img {
+    border-radius: 50%;
+  }
+  p {
+    text-align: center;
+  }
+  p.view {
+    text-align: left;
   }
 }
-
-// h1, h2, h3, h4, h5, h6 {
- // color:#222;
- // margin:0 0 20px;
-//}
-
-//a {
-//  color:#F87666;
-//  text-decoration:none;
-//}
   
 
 
