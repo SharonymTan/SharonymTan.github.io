@@ -15,10 +15,11 @@ header {
   }
 }
 
+@import "fonts";
 body {
   background-color: #24282d;
   padding:50px;
-  font: 14px/1.5 "Monsterrat", "Helvetica Neue", Monsterrat, Arial, sans-serif;
+  font: 14px/1.5 "SpaceMono", "Helvetica Neue", Monsterrat, Arial, sans-serif;
   color:#faf9f9;
   font-weight:400;
 }
