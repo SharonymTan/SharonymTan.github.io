@@ -16,7 +16,7 @@ header {
 }
 
 body {
-  background-color: #424952;
+  background-color: #24282d;
   padding:50px;
   font: 14px/1.5 "Monsterrat", "Helvetica Neue", Monsterrat, Arial, sans-serif;
   color:#faf9f9;
@@ -24,16 +24,16 @@ body {
 }
 
 h1, h2, h3, h4, h5, h6 {
-  color:#ece9e9;
+  color:#fff;
   margin:0 0 20px;
 }
 
 a {
-  color:#45f0df;
+  color:#ece9e9;
   text-decoration:none;
 }
 
 a:hover, a:focus {
-  color:#fff;
+  color:#45f0df;
   font-weight: bold;
 }
