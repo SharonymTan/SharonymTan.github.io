@@ -4,7 +4,7 @@
 @import "jekyll-theme-minimal";
 header {
   img {
-    width:200px;
+    width:150px;
     border-radius: 50%;
   }
   p {
@@ -15,7 +15,25 @@ header {
   }
 }
 
+body {
+  background-color: #11000d;
+  padding:50px;
+  font: 14px/1.5 "Monsterrat", "Helvetica Neue", Helvetica, Arial, sans-serif;
+  color:#faf9f9;
+  font-weight:400;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  color:#faf9f9;
+  margin:0 0 20px;
+}
+
 a {
-  color:#f87666;
+  color:#fff;
   text-decoration:none;
+}
+
+a:hover, a:focus {
+  color:#069;
+  font-weight: bold;
 }
