@@ -2,5 +2,5 @@ theme: jekyll-theme-minimal
 title: Sharon's portfolio #left title of page
 logo: "/images/profile_picture.jpg" #profile pic
 show_downloads: false
-description: "Data Scince student at UNSW."
+description: "Data Science student at UNSW."
 
