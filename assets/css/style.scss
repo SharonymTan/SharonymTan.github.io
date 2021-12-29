@@ -4,8 +4,10 @@
 @import "jekyll-theme-minimal";
 header {
   img {
+    padding: 0px;
     width: 200px;
     height: 200px;
+    line-height: 200px;
     border-radius: 50%;
   }
   p {
