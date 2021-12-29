@@ -1,6 +1,6 @@
 theme: jekyll-theme-minimal
 title: "Sharon's Portfolio" #left title of page
-logo: "/images/profile_picture.jpg" #profile pic
+logo: "/images/profile_picture_sq.jpg" #profile pic
 show_downloads: false
 description: "Data Science student at UNSW."
 email: ymsharon998@gmail.com
