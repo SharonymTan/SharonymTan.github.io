@@ -1,4 +1,4 @@
-## Welcome
+# Welcome
 
 👋 Hi, I'm Sharon!
 
@@ -8,7 +8,7 @@ Welcome to my personal website. Here you will find some of the projects that I h
 
 I am fascinated by the possibility of data and I want to use data to help the world a better place.
 
-## Project List:
+# Project List:
 
 ### [Predict cancer patients survival rate using Machine Learning](https://github.com/sharonymtan/data-science-portfolio/tree/main/bikeshare-dataset-data-preprocessing)
 
