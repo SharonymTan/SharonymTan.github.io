@@ -1,6 +1,6 @@
 # Welcome
 
-👋 Hi, I'm Sharon!
+👋 **Hi, I'm Sharon!**
 
 Welcome to my personal website. Here you will find some of the projects that I have completed through my university course, projects from work and some of my hobby/ learner projects.
 
