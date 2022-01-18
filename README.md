@@ -4,7 +4,7 @@
 
 Welcome to my personal website. Here you will find some of the projects that I have completed through my university course, projects from work and some of my hobby/ learner projects.
 
-I am fascinated by the possibility of data and I want to use data to help the world a better place.
+I am fascinated by the possibility of data and I want to use data to help make the world a better place.
 
 # Project List:
 
